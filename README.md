@@ -22,4 +22,8 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></img>
 <img src="https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></img>
 </div>
+<br/>
+<br/>
  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdm1263&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdm1263&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
