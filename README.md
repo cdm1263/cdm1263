@@ -1,5 +1,5 @@
 <h1 align='center' >Dongmin</h1>
-<h3 align='center'>Studying FE from FastCampus (2023.03.17 ~ 2023.10.10)</h3>
+<h3 align='center'>FE from FastCampus (2023.03.17 ~ 2023.10.10)</h3>
 <br/>
 <br/>
 
