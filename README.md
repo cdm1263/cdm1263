@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello!&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20Dongmin%20GitHub)
 
-
 ## 📚 About Me
 
 ### 프론트엔드 개발자 차동민 입니다!
@@ -46,5 +45,5 @@
 ---
 
 ## 📊 GitHub Stats
-
+[![Dongmin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cdm1263&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Dongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdm1263&show_icons=true&theme=tokyonight)
