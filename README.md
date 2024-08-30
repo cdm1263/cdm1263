@@ -37,6 +37,14 @@
 
 ---
 
+## 📚 OpenSource
+
+### [react-query-tutorial](https://github.com/ssi02014/react-query-tutorial/pull/37#issue-2496457205)
+- Optimistic Update 코드 오류 수정
+- PR merge 및 Contributor 등록
+
+---
+
 ## 📚 Experience
 
 - `2024.05 ~ 2024.06` 앱손 이노베이션 챌린지 해커톤 
